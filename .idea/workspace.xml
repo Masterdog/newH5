@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8b5834ab-4217-45c1-b00e-edd350f8763a" name="Default Changelist" comment="2020.5.26 01.08">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/popstar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/blue@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/cover.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/green@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/pause@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/play@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/purple@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/red@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/star_blue@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/star_green@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/star_purple@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/star_red@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/star_yellow@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/yellow@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/popstar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/script/Popstar.es6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/script/Popstar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/script/core/Control.es6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/script/core/Model.es6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/script/core/View.es6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/script/lib/Event.es6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/script/lib/gsap/TimelineLite.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/script/lib/gsap/TimelineMax.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/script/lib/gsap/TweenLite.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/script/lib/gsap/TweenMax.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/script/lib/gsap/easing/EasePack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/script/lib/gsap/plugins/AttrPlugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/script/lib/gsap/plugins/BezierPlugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/script/lib/gsap/plugins/CSSPlugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/script/lib/gsap/plugins/CSSRulePlugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/script/lib/gsap/plugins/ColorPropsPlugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/script/lib/gsap/plugins/DirectionalRotationPlugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/script/lib/gsap/plugins/EaselPlugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/script/lib/gsap/plugins/EndArrayPlugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/script/lib/gsap/plugins/ModifiersPlugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/script/lib/gsap/plugins/PixiPlugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/script/lib/gsap/plugins/RaphaelPlugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/script/lib/gsap/plugins/RoundPropsPlugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/script/lib/gsap/plugins/ScrollToPlugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/script/lib/gsap/plugins/TEMPLATE_Plugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/script/lib/gsap/plugins/TextPlugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/script/lib/gsap/utils/Draggable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/script/lib/pixi.extension.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/script/lib/pixi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/script/lib/shuffle.es6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/script/lib/timer.es6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/script/lib/utils.es6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/script/lib/waveaverage.es6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/newH5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1cM5bxKLYJwqutecrcciuelyWfg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\WebstormProjects\newH5\image" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\WebstormProjects\newH5" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b5834ab-4217-45c1-b00e-edd350f8763a" name="Default Changelist" comment="" />
+      <created>1590325696663</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590325696663</updated>
+      <workItem from="1590325697880" duration="351000" />
+      <workItem from="1590373354975" duration="6317000" />
+    </task>
+    <task id="LOCAL-00001" summary="modify">
+      <created>1590325822242</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590325822242</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2020.5.25 10：26">
+      <created>1590373623656</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590373623656</updated>
+    </task>
+    <task id="LOCAL-00003" summary="2020.5.25 10：26">
+      <created>1590377013840</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1590377013840</updated>
+    </task>
+    <task id="LOCAL-00004" summary="2020.5.25 11:24">
+      <created>1590377086869</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1590377086869</updated>
+    </task>
+    <task id="LOCAL-00005" summary="2020.5.25 11:24">
+      <created>1590377428186</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1590377428187</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="modify" />
+    <MESSAGE value="2020.5.25 10：26" />
+    <MESSAGE value="2020.5.25 11:24" />
+    <MESSAGE value="2020.5.26 01.08" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020.5.26 01.08" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="404" y="26" key="CommitChangelistDialog2" timestamp="1590426682425">
+      <screen x="64" y="0" width="1472" height="864" />
+    </state>
+    <state x="404" y="26" key="CommitChangelistDialog2/64.0.1472.864@64.0.1472.864" timestamp="1590426682425" />
+    <state x="302" y="75" key="SettingsEditor" timestamp="1590377199934">
+      <screen x="64" y="0" width="1472" height="864" />
+    </state>
+    <state x="302" y="75" key="SettingsEditor/64.0.1472.864@64.0.1472.864" timestamp="1590377199934" />
+    <state x="393" y="166" key="Vcs.Push.Dialog.v2" timestamp="1590377487657">
+      <screen x="64" y="0" width="1472" height="864" />
+    </state>
+    <state x="393" y="166" key="Vcs.Push.Dialog.v2/64.0.1472.864@64.0.1472.864" timestamp="1590377487657" />
+  </component>
+</project>
